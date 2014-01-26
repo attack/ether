@@ -1,0 +1,8 @@
+*.gem
+.bundle
+.config
+Gemfile.lock
+coverage
+pkg
+rdoc
+tmp
